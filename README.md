@@ -68,8 +68,8 @@ rollodice/
 │   └── main.dart           # App entry point
 ├── assets/                 # App assets (images, etc.)
 │   └── images/             # Dice images
-├── pubspec.yaml            # Project configuration
-└── README.md               # Project documentation
+├── [pubspec.yaml](http://_vscodecontentref_/1)            # Project configuration
+└── [README.md](http://_vscodecontentref_/2)               # Project documentation
 
 ---
 
